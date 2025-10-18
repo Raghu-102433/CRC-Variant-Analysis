@@ -99,7 +99,7 @@ chmod +x vcf_analyser.sh
 Example:
 
 ```
-./vcfanalysis.sh sample_vcf.vcf analysisresults/
+./vcfanalyser.sh sample_vcf.vcf analysisresults/
 ```
 
 5️⃣ Downstream Functional & Clinical Interpretation
