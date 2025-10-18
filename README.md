@@ -30,9 +30,10 @@ The analysis compared a **tumour sample (SRR8993342)** and its **matched normal 
 
 ## Potential Actionables for the Case  
 
-- **SYNE1 p.R31\*** (*c.91C>T, Exon 4*) was identified as a **pathogenic (PVS1–Very Strong)** null variant, introducing a premature stop codon early in the transcript.  
+- **SYNE1 p.R31\*** (*c.91C>T, Exon 4*) was identified as a **pathogenic (PVS1–Very Strong)** null variant introducing a premature stop codon early in the transcript.  
   - **Mechanistic Implication:** The truncation is predicted to undergo **nonsense-mediated mRNA decay (NMD)**, leading to loss of SYNE1 protein function.  
-  - **Clinical Context:** SYNE1 loss-of-function is a known disease mechanism, supported by >350 pathogenic null variants reported across 132 exons in ClinVar. The variant’s gnomAD observed/expected score (0.423) aligns with known LoF intolerance.  
+  - **Clinical Context:** SYNE1 loss-of-function is a known disease mechanism, supported by >350 pathogenic null variants reported across 132 exons in ClinVar. The variant’s gnomAD observed/expected score (0.423) aligns with known LoF intolerance.
+  - **Occurrence:** Variants in SYNE1 were detected in both somatic and germline analyseis pointing to a possible dual role in tumor biology and genetic background
   - **CRC Relevance:** Although SYNE1 pathogenic variants are primarily reported in neuromuscular and neurodegenerative contexts, the gene’s structural role in **nuclear-cytoskeletal coupling** suggests that truncating events could compromise nuclear integrity and mechanotransduction — processes recently linked to **CRC cell invasion and chromatin instability**.  
   - **Clinical Trial Reference:** Variants in SYNE1 are represented in non-CRC contexts (e.g., congenital muscle disease studies, NCT01403402; methotrexate clearance studies, NCT0219791), but **no direct therapeutic or prognostic evidence** is currently established in CRC.  
 
