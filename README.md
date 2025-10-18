@@ -13,7 +13,7 @@ The analysis compared a **tumour sample (SRR8993342)** and its **matched normal 
 
 - **Key Mutated Genes:** Major somatic alterations were detected in **RECK**, **ADAMTS9**, **WNK2**, **SGK3**, and the large structural gene **SYNE1**, suggesting deregulation of *extracellular matrix remodeling, kinase signaling,* and *cytoskeletal organization* — hallmarks of **colorectal tumour progression and invasion**.  
 - **Ontology / Pathway Summary:** Enrichr analysis (notably involving **SYNE1**, **MUSK**, **DPP9**, and **SLC27A4**) revealed enrichment in *muscle cell differentiation*, *neuromuscular synapse morphology*, and *protein autophosphorylation*, indicating **structural and signaling perturbations** influencing tumour cell adhesion and polarity rather than canonical APC–KRAS–TP53 pathways.  
-- **Variant Classification (Franklin AMP):** One **Tier 3 Pathogenic (AMP)** nonsense mutation, *SYNE1 p.R31\** (*c.91C>T, Exon 4*), was identified with **high confidence**, while all other somatic variants were classified as **Tier 3 VUS (AMP)**.
+- **Variant Classification (AMP):** One **Tier 3 Pathogenic (AMP)** nonsense mutation, *SYNE1 p.R31\** (*c.91C>T, Exon 4*), was identified with **high confidence**, while all other somatic variants were classified as **Tier 3 VUS (AMP)**.
 
 ---
 
