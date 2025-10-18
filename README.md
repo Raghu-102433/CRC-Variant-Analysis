@@ -40,7 +40,7 @@ The analysis compared a **tumour sample (SRR8993342)** and its **matched normal 
 
 ## How To Use:
 
-System Requirements
+System Requirements:
 > All pipelines and scripts were tested with a **minimum of 16 GB RAM** and **12 CPU threads**. Users can adjust these settings based on their own system resources.
 
 1️⃣ Environment Setup
