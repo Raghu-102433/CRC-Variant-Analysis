@@ -1,0 +1,24 @@
+name: variant_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - bcftools
+  - samtools
+  - gatk4
+  - bedtools
+  - fastqc
+  - multiqc
+  - trimmomatic
+  - bwa
+  - picard
+  - biopython
+  - ensembl-vep
+  - pip
+  - pip:
+      - pandas
+      - matplotlib
+      - seaborn
+      - openpyxl
