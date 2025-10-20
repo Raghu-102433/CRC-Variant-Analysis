@@ -1,6 +1,6 @@
 
 
-# 🧬 Colorectal Cancer (CRC) Variant Analysis with WES
+# Colorectal Cancer (CRC) Variant Analysis with WES
 
 This project, titled **“CRC Variant Analysis with WES”** utilized whole-exome sequencing data from the NCBI BioProject **[PRJNA540552]** 
 The analysis compared a **tumour sample (SRR8993342)** and its **matched normal (SRR8993344)** to identify both somatic and germline genomic variants contributing to colorectal carcinogenesis.  
